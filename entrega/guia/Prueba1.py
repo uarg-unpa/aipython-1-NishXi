@@ -4,7 +4,7 @@ print("Las máquinas me sorprenden con mucha frecuencia")
 #pto 1b
 print("")
 #pto 1c
-print("ando, caminando, con un flow violento y con un piquete cabron")
+print("testing, place")
 #pto 1d
 print("23",23)
 #pto 1e
@@ -18,4 +18,16 @@ print("calle","nro","cod_postal",sep= "\t")
 #pto 1i
 print("calle","nro","cod_postal",sep= "\n")
 #pto 1j
-print("Feliz","Primavera","2024", "trola",sep="\n \t")
+print("Feliz" , "\n \t Primavera","\n \t \t 2024")
+#pto 1k
+print("Solo podemos ver poco del futuro", end=",")
+print(" pero lo suficiente para darnos cuenta que hay mucho que hacer")
+#pto 1l
+print("     *")
+print("   *   *")
+print("  *     *")
+print(" *       *")
+print("***     ***")
+print("   *   *")
+print("   *   *")
+print("   *****")
