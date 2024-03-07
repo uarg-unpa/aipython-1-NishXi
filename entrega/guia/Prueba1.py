@@ -12,4 +12,10 @@ print("Una computadora puede ser llamada \"inteligente\" si logra engañar a una
 #pto 1f
 print("Apellido Groppa","Nombre: Emanuel","edad 18")
 #pto 1g
-print("Apellido Groppa","Nombre: Emanuel","edad 18")
+print("Apellido Groppa","Nombre: Emanuel","edad 18",sep="_")
+#pto 1h
+print("calle","nro","cod_postal",sep= "\t")
+#pto 1i
+print("calle","nro","cod_postal",sep= "\n")
+#pto 1j
+print("Feliz","Primavera","2024", "trola",sep="\n \t")
