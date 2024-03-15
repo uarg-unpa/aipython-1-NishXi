@@ -1,0 +1,12 @@
+producto1= float(input("producto1"))
+producto2= float(input("producto2"))
+producto3= float(input("producto3"))
+producto4= float(input("producto4"))
+producto5= float(input("producto5"))
+producto6= float(input("producto6"))
+producto7= float(input("producto7"))
+producto8= float(input("producto8"))
+producto9= float(input("producto9"))
+producto10= float(input("producto10"))
+promedio = (producto1+producto2+producto3+producto4+producto5+producto6+producto7+producto8+producto9+producto10)/10
+print("promedio: ", promedio)
